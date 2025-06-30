@@ -58,6 +58,7 @@ nav.scrolled {
 }
 
 .nav-links {
+    background: url('photo.jpg') no-repeat center center;
     display: flex;
     gap: 1.5rem;
 }
